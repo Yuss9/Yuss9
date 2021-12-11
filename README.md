@@ -1,8 +1,8 @@
 ### Hi there, I'm Yurtseven Huseyin - aka Yuss 👋 
 
-[![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=test)](https://www.linkedin.com/in/h%C3%BCseyin-yurtseven-a448751b9/)
+[![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/h%C3%BCseyin-yurtseven-a448751b9/)
 
-[![Website](https://img.shields.io/website?label=Instagram_Pro&style=for-the-badge&url=insta)](https://www.instagram.com/yt_codes/)
+[![Website](https://img.shields.io/website?label=Instagram_Pro&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/yt_codes/)
 
 
 ## I'm a Student Developer
