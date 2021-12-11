@@ -1,6 +1,6 @@
 ### Hi there, I'm Yurtseven Huseyin - aka [Yuss][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/h%C3%BCseyin-yurtseven-a448751b9/)
+[![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/h%C3%BCseyin-yurtseven-a448751b9/)
 
 
 ## I'm a Student Developer
