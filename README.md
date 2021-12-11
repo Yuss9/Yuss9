@@ -9,8 +9,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play cryptocurrency
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I am passionate about crypto currency
 
 ### Connect with me:
 
