@@ -22,5 +22,5 @@
 
 
 
-[instagram]: https://www.instagram.com/yt_codes/
-[linkedin]: https://www.linkedin.com/in/h%C3%BCseyin-yurtseven-a448751b9/
+[instagram]: https://www.instagram.com/yusscodes/
+[linkedin]: https://www.linkedin.com/in/h%C3%BCseyin-yurtseven-%F0%9F%92%BB-a448751b9/
