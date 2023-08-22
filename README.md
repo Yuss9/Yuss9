@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/h%C3%BCseyin-yurtseven-%F0%9F%92%BB-a448751b9/)
 
-[![Website](https://img.shields.io/website?label=Instagram_Pro&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/yusscodes/)
+[![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/yusscodes/)
 
 
 ## I'm a Student Developer
