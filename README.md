@@ -8,7 +8,7 @@
 
 
 <div align="left">
-  <a href="https://app.daily.dev/DailyDevTips" target="_blank"><img src="https://github.com/Yuss9/Yuss9/blob/master/devcard.svg" width="256"    
+  <a href="https://github.com/Yuss9" target="_blank"><img src="https://github.com/Yuss9/Yuss9/blob/master/devcard.svg" width="256"    
  align="right" alt="Yuss's Dev Card"/></a>
 </div>
 
