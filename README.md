@@ -1,8 +1,11 @@
 ### Hi there, I'm Yurtseven Huseyin - aka Yuss 👋 
 <div align="left">
-  [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/h%C3%BCseyin-yurtseven-%F0%9F%92%BB-a448751b9/)
 
-  [![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/yusscodes/)
+
+[![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/h%C3%BCseyin-yurtseven-%F0%9F%92%BB-a448751b9/)
+
+[![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/yusscodes/)
+
 
   <a href="https://app.daily.dev/DailyDevTips" target="_blank"><img src="https://github.com/Yuss9/Yuss9/blob/master/devcard.svg" width="256"    
  align="right" alt="Yuss's Dev Card"/></a>
