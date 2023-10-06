@@ -1,8 +1,13 @@
 ### Hi there, I'm Yurtseven Huseyin - aka Yuss 👋 
+<div align="left">
+  [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/h%C3%BCseyin-yurtseven-%F0%9F%92%BB-a448751b9/)
 
-[![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/h%C3%BCseyin-yurtseven-%F0%9F%92%BB-a448751b9/)
+  [![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/yusscodes/)
 
-[![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/yusscodes/)
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Yuss9/Yuss9/blob/master/devcard.svg" width="400" alt="Yuss's Dev Card"/></a>
+
+</div>
+
 
 
 ## I'm a Student Developer
@@ -16,11 +21,6 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Yuss9/Yuss9/blob/master/devcard.svg" width="400" alt="Yuss's Dev Card"/></a>
 
 <br />
 
