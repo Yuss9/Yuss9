@@ -16,8 +16,6 @@
 
 ## I'm a Student Developer
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am passionate about VR/AR and Ios developpement
 
