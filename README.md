@@ -16,7 +16,9 @@
 
 ## I'm a Student Developer
 
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
+  - Build new application
+  - Create my SAAS
 - ⚡ Fun fact: I am passionate about VR/AR and Ios developpement
 
 ### Connect with me:
