@@ -8,8 +8,7 @@
 
 
 <div align="left">
-  <a href="https://github.com/Yuss9" target="_blank"><img src="https://github.com/Yuss9/Yuss9/blob/master/devcard.svg" width="256"    
- align="right" alt="Yuss's Dev Card"/></a>
+  <a href="https://github.com/Yuss9"><img src="https://api.daily.dev/devcards/v2/rNpHz2J8iJRfmTjck185h.png?r=bhd&type=wide" width="652" alt="Huseyin Yurtseven - yusscodes's Dev Card"/></a>
 </div>
 
 
