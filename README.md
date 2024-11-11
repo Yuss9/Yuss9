@@ -3,27 +3,20 @@
 
 [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/h%C3%BCseyin-yurtseven-%F0%9F%92%BB-a448751b9/)
 
-[![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/yusscodes/)
-
-
-
 <div align="center">
   <a href="https://github.com/Yuss9"><img src="https://api.daily.dev/devcards/v2/rNpHz2J8iJRfmTjck185h.png?r=bhd&type=wide" width="652" alt="Huseyin Yurtseven - yusscodes's Dev Card"/></a>
 </div>
 
-
-
-## I'm a Student Developer
+## I'm a Software Engineer 🇨🇭
 
 - 🥅 2024 Goals: Contribute more to Open Source projects
-  - Build new application
-  - Create my SAAS
-- ⚡ Fun fact: I am passionate about VR/AR and Ios developpement
+  - Build new applications
+  - Develop my own SAAS
+- ⚡ Fun fact: I am passionate about VR/AR and iOS development
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -42,7 +35,4 @@
 [![](https://visitcount.itsvg.in/api?id=Yuss9&icon=0&color=8)](https://visitcount.itsvg.in)
 
 
-
-
-[instagram]: https://www.instagram.com/yusscodes/
 [linkedin]: https://www.linkedin.com/in/h%C3%BCseyin-yurtseven-%F0%9F%92%BB-a448751b9/
