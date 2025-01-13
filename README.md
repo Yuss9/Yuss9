@@ -7,12 +7,17 @@
   <a href="https://github.com/Yuss9"><img src="https://api.daily.dev/devcards/v2/rNpHz2J8iJRfmTjck185h.png?r=bhd&type=wide" width="652" alt="Huseyin Yurtseven - yusscodes's Dev Card"/></a>
 </div>
 
-## I'm a Software Engineer 🇨🇭
+## I'm a Software Engineer 🇨🇭  
 
-- 🥅 2024 Goals: Contribute more to Open Source projects
-  - Build new applications
-  - Develop my own SAAS
-- ⚡ Fun fact: I am passionate about VR/AR and iOS development
+- 🥅 2025 Goals:  
+  - Build innovative projects leveraging AI and cloud technologies  
+  - Develop and launch a fully functional SaaS product  
+  - Share technical experiences through blog posts and tutorial videos  
+  - Actively contribute to Open Source projects  
+- 🚀 Exploring: Homelab setups, Kubernetes, Edge Computing, iOS, and AR/VR  
+- ⚡ Fun fact: Always eager to master new technologies and tackle challenging problems  
+
+Let me know if you need any tweaks!
 
 ### Connect with me:
 
