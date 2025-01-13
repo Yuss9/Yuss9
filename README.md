@@ -3,6 +3,8 @@
 
 [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/h%C3%BCseyin-yurtseven-%F0%9F%92%BB-a448751b9/)
 
+[![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yuss.dev/)
+
 <div align="center">
   <a href="https://github.com/Yuss9"><img src="https://api.daily.dev/devcards/v2/rNpHz2J8iJRfmTjck185h.png?r=bhd&type=wide" width="652" alt="Huseyin Yurtseven - yusscodes's Dev Card"/></a>
 </div>
